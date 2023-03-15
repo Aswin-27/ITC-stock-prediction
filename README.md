@@ -35,6 +35,7 @@ It tooks nearly 48seconds to 58 seconds to run single keras model files in Jupyt
 But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where this keras model consist of 100 files to run it and make to fit for the model.
 ![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
 the above image is in openVINO notebook
-![image](https://user-images.githubusercontent.com/105495867/225071827-8c6e18ed-5611-48f6-95e7-a46379bbc59b.png)
+![image](https://user-images.githubusercontent.com/105495867/225222368-8dacf339-445f-4b2c-8404-53a0526ef6ca.png)
+
 the above image is in local machine notebook
 
