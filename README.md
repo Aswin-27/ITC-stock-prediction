@@ -37,5 +37,5 @@ But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where thi
 the above image is in openVINO notebook
 ![image](https://user-images.githubusercontent.com/105495867/225222368-8dacf339-445f-4b2c-8404-53a0526ef6ca.png)
 
-the above image is in local machine notebook
+the above image is in local machine's notebook
 
